@@ -1,1 +1,5 @@
-const headingEl = <h1>Hii Krishna</h1>
+const el = () => {
+    return(
+        <h1>Hiii</h1>
+    )
+};
